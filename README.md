@@ -2,6 +2,8 @@
 
 A modern, responsive React.js website showcasing legendary music artists across different genres. Built with Vite, featuring a clean white cream design theme and smooth animations.
 
+![image](screenshots.png)
+
 ## ✨ Features
 
 - **Modern UI/UX**: Clean, cream-colored design with smooth animations
